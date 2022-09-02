@@ -10,6 +10,7 @@ junit.xml
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.parcel-cache
 
 # Storybook
 .nuxt-storybook

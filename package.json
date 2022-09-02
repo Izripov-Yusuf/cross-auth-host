@@ -2,5 +2,8 @@
   "dependencies": {
     "cross-domain-storage": "^2.0.7",
     "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
   }
 }
